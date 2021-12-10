@@ -1,0 +1,6 @@
+Terminal Linux: basic commands
+Git: repository management
+Postman: testing API
+HTTP: Methods, response codes, structure of HTTP requests
+Charles, Fiddler: interseption of web traffic
+Browser Dev tools: Chrome,Firefox
